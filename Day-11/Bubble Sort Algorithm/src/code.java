@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class code {
     static void main(String[] args) {
-        int[] arr={1, 1, 2, 2, 5, 6, 7, 8, 9, 21, 23};
+        int[] arr={1, 5, 2, 8, 5, 6, 7, 25, 9, 31, 23};
         bubbleSort(arr);
         System.out.println(Arrays.toString(arr));
     }
