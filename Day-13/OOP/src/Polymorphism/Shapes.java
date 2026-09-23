@@ -6,5 +6,4 @@ public class Shapes {
         System.out.println("I am in Shapes");
     }
 
-
 }

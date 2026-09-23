@@ -5,10 +5,12 @@ public class boxColor extends newWeightBox{
     String color;
 
     boxColor(){
+
         this.color="none";
     }
 
     boxColor(String color){
+
         this.color=color;
     }
 

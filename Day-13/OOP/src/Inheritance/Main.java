@@ -21,6 +21,9 @@ public class Main {
         newBoxPrice box7 = new newBoxPrice(2,25,30);
         System.out.println(box6.h);
 
+        Box box = new newWeightBox();
+        newWeightBox.greeting();
+
     }
 }
 

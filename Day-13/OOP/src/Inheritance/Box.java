@@ -29,6 +29,9 @@ public class Box {
         this.w=old.w;
     }
 
+    static void greeting(){
+        System.out.println("Hi! , i am in the box class");
+    }
     public void info(){
         System.out.println("Running the box...");
     }
