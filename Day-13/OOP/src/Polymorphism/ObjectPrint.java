@@ -4,6 +4,7 @@ public class ObjectPrint {
     int num;
 
     public ObjectPrint(int num){
+
         this.num=num;
     }
 
