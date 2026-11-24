@@ -1,6 +1,6 @@
 package Abstract;
 
-public class ab {
+public class Ab {
 
     abstract class abstract1{
        abstract void shap();
